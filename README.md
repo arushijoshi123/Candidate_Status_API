@@ -3,7 +3,7 @@
 
 The Candidate Status API allows you to retrieve candidate status information for a given user. It provides information about the total number of candidates created by the user and the count of candidates with different status types.
 
-### Base URL
+
 
 
 ### Endpoints
